@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marko Saksida
 - 👀 I’m interested in Software Quality Assurance
-- 🌱 I’m currently learning SQA Automation
+- 🌱 I have successfully completed IT Bootcamp, an intense 160-hour course to become Software tester (manual + automation), and here you can see some of the work I've done
 - 📫 How to reach me -> marko.saksida@icloud.com
 
 
